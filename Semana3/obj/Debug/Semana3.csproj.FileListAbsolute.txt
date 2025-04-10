@@ -1,0 +1,7 @@
+C:\Users\MIGUI\Desktop\C# (PRACTICAS)\PRACTICA\Fundamentos de algoritmos\Semana3\bin\Debug\Semana3.exe.config
+C:\Users\MIGUI\Desktop\C# (PRACTICAS)\PRACTICA\Fundamentos de algoritmos\Semana3\bin\Debug\Semana3.exe
+C:\Users\MIGUI\Desktop\C# (PRACTICAS)\PRACTICA\Fundamentos de algoritmos\Semana3\bin\Debug\Semana3.pdb
+C:\Users\MIGUI\Desktop\C# (PRACTICAS)\PRACTICA\Fundamentos de algoritmos\Semana3\obj\Debug\Semana3.csproj.AssemblyReference.cache
+C:\Users\MIGUI\Desktop\C# (PRACTICAS)\PRACTICA\Fundamentos de algoritmos\Semana3\obj\Debug\Semana3.csproj.CoreCompileInputs.cache
+C:\Users\MIGUI\Desktop\C# (PRACTICAS)\PRACTICA\Fundamentos de algoritmos\Semana3\obj\Debug\Semana3.exe
+C:\Users\MIGUI\Desktop\C# (PRACTICAS)\PRACTICA\Fundamentos de algoritmos\Semana3\obj\Debug\Semana3.pdb
